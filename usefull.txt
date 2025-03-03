@@ -1,0 +1,9 @@
+insert into user_table (date_of_birth,id, pocket, "name",is_active) values ('2005-01-01',3,2000,'Pan Treti',true);
+
+select * from user_table;
+
+select * from drink;
+
+insert into drink (is_for_adult,id, price, name) values (false, 3, 50, 'Voda');
+
+select * from order_table;

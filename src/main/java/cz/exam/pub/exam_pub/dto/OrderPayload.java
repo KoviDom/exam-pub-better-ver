@@ -13,4 +13,5 @@ public class OrderPayload {
 
     private Long drinkId;
     private Long userId;
+
 }
